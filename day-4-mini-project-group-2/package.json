@@ -1,0 +1,23 @@
+{
+  "name": "day-4-mini-project-group-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "setup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/A_Prabowo/day-4-mini-project-group-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/A_Prabowo/day-4-mini-project-group-2/issues"
+  },
+  "homepage": "https://gitlab.com/A_Prabowo/day-4-mini-project-group-2#readme",
+  "dependencies": {
+    "sqlite3": "^5.0.0"
+  }
+}
